@@ -31,7 +31,7 @@ permalink: campus-info/
 ![waseda](https://www.waseda.jp/top/assets/uploads/2014/03/d75c6454787e805d5797935539f59e6c.jpg)
 
 ## 学生生活を支える施設
-
+---
 ![waseda](https://www.waseda.jp/inst/weekly/assets/uploads/2022/04/f80b99d8dae4712bddcd4267e0be6304.jpg)
 
 ### 図書館
