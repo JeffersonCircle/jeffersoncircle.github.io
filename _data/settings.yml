@@ -7,12 +7,12 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: '早稲田大学について',  url: 'about-waseda/'}
-- {name: '学業生活',           url: 'academic-life/'}
-- {name: 'キャンパスライフと施設',       url: 'campus-info/'}
-- {name: '東京での生活',      url: 'tokyo-life/'}
-- {name: '留学生支援',              url: 'international-student-support/'}
-- {name: '学生体験談',            url: 'student-experiences/'}
+- {name: 'Interesting Facts',  url: 'facts'}
+- {name: 'Learning Resources', url: 'resources'}
+- {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'Documentation',      url: 'documentation'}
+- {name: 'About',              url: 'about'}
+- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
