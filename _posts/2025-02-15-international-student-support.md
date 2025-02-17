@@ -36,7 +36,7 @@ permalink: international-student-support/
 ### メンター制度
 先輩学生（日本人・留学生）が新入留学生をサポートするメンター制度があり、学業や生活の不安を気軽に相談できます。日本の大学生活に慣れるための貴重な機会となります。
 
-![waseda]([https://www.w-as.jp/wp-content/uploads/2019/04/%EF%BC%88%E5%86%99%E7%9C%9F1%EF%BC%89IT%E5%88%A9%E7%94%A8%E6%94%AF%E6%8F%B4%E7%AA%93%E5%8F%A3%E5%AF%BE%E5%BF%9C%E9%A2%A8%E6%99%AF.jpg](https://www.waseda.jp/inst/weekly/assets/uploads/2019/12/DSC08759-940x626.jpg))
+![waseda](https://www.waseda.jp/inst/weekly/assets/uploads/2019/12/DSC08759-940x626.jpg)
 
 ### 国際交流イベント
 早稲田大学では、留学生と日本人学生が交流できるイベントを多数開催しています。異文化理解を深めるためのワークショップや、言語交換プログラム、国際フェスティバルなど、世界中の学生とつながるチャンスがあります。
