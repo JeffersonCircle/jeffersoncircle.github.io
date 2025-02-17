@@ -30,3 +30,5 @@ koalanofさんの体験
 Miley Aoyama 青山舞莉さんの体験
 
 [![YouTube Video](https://img.youtube.com/vi/4Hez_WJ7qgk/0.jpg)](https://www.youtube.com/watch?v=4Hez_WJ7qgk)
+
+{% include youtube.html id="4Hez_WJ7qgk" %}
