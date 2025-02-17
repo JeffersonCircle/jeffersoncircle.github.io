@@ -11,24 +11,22 @@ permalink: student-experiences/
 ---
 Patrick Arseneaultさんの体験
 
-[![YouTube Video](https://img.youtube.com/vi/i_b5GjkCBHE/0.jpg)](https://www.youtube.com/watch?v=i_b5GjkCBHE)
+{% include youtube.html id="i_b5GjkCBHE" %}
 
 ---
 
 Oriental Pearlさんの体験
 
-[![YouTube Video](https://img.youtube.com/vi/qjTqeejCWY0/0.jpg)](https://www.youtube.com/watch?v=qjTqeejCWY0)
+{% include youtube.html id="qjTqeejCWY0" %}
 
 ---
 
 koalanofさんの体験
 
-[![YouTube Video](https://img.youtube.com/vi/adUMlQJePLA/0.jpg)](https://www.youtube.com/watch?v=adUMlQJePLA)
+{% include youtube.html id="adUMlQJePLA" %}
 
 ---
 
 Miley Aoyama 青山舞莉さんの体験
-
-[![YouTube Video](https://img.youtube.com/vi/4Hez_WJ7qgk/0.jpg)](https://www.youtube.com/watch?v=4Hez_WJ7qgk)
 
 {% include youtube.html id="4Hez_WJ7qgk" %}
