@@ -1,7 +1,7 @@
 ---
 layout: post
 title: キャンパスライフと施設
-image: waseda-sh.jpg
+image: waseda-3.jpg
 category: campus-info
 permalink: campus-info/
 ---
